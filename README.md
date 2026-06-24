@@ -66,11 +66,11 @@ I am currently developing Web API and MVC projects while continuing to learn new
   </li>
 
   <li>
-    <b>E-Commerce API</b> - RESTful API with JWT Authentication, pagination, repository pattern and Entity Framework Core.
+    <b>FitControl API</b> - RESTful API with JWT Authentication, pagination, repository pattern and Entity Framework Core.
   </li>
 
   <li>
-    <b>StockControl</b> - Inventory management system developed with ASP.NET Core MVC for product, stock, and sales control with database integration.
+    <b>StockFlow</b> - Inventory management system developed with ASP.NET Core MVC for product, stock, and sales control with database integration.
   </li>
 </ul>
 
